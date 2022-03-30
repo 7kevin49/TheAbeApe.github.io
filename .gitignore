@@ -1,3 +1,5 @@
-_site
-Gemfile.*.lock
-.sass-cache
+Gemfile.lock
+spec/examples.txt
+*.gem
+tmp/
+spec/fixtures/site/.jekyll-cache
